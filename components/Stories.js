@@ -59,6 +59,7 @@ const Stories = () => {
 
 export default Stories
 
+
 const styles = StyleSheet.create({
     container: {
         height: 65,
