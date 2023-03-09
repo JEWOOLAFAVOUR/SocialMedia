@@ -5,6 +5,7 @@ const Balablu = () => {
     return (
         <View>
 
+
             <FlatList
                 horizontal={true}
                 showsHorizontalScrollIndicator={false}

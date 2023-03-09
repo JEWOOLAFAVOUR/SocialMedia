@@ -46,6 +46,7 @@ const Stories = () => {
     return (
         <View>
 
+
             <FlatList
                 horizontal={true}
                 showsHorizontalScrollIndicator={false}
