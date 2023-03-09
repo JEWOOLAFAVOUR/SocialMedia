@@ -41,11 +41,7 @@ const Stories = () => {
         },
     ];
 
-    // const _renderHeader = () => {
-    //     return (
 
-    //     )
-    // }
 
     return (
         <View>
