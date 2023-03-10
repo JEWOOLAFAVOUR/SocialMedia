@@ -114,7 +114,6 @@ const Search = () => {
                 images={testImage}
             // emptyView={myListEmpty}
             />
-            <Text>HEllo</Text>
         </View>
     )
 }
