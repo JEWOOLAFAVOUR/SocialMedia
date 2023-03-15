@@ -72,6 +72,7 @@ const Activity = () => {
                                     <Text style={{ color: '#000', fontSize: 11, }}>following</Text>
                                 </TouchableOpacity>
                             }
+                            {/* balablu */}
                         </View>
                     )
                 }}
